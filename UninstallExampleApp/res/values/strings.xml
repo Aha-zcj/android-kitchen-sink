@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">HelloWorldApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Uninstall Sys Pkg</string>
+
+    <string name="input_pkg_name">input pkg name:</string>
+    <string name="query_app_info">query pkg</string>
+    <string name="pkg_name">com.snda.cloudary</string>
+    
+    <string name="delete_pkg">delete pkg without root</string>
+    <string name="su_rm">rm pkg with root</string>
+    
+</resources>
