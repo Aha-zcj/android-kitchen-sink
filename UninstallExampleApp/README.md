@@ -1,5 +1,7 @@
 UninstallExampleApp
------------------------------------------
+====================
+
+This project demonstrates how to uninstall an application SILENTLY under Android, even a system application (root required) along with the data, and how to remove its data as well.
 
 这个程序演示了在android下如何“静默”地卸载掉一个应用（设备无须root），甚至卸载掉一个系统自带的应用（设备需要root）和相应的数据，以及如何判断是否卸载成功。
 
